@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&multiline=true&width=435&lines=ERIKA+SOARES+DOS+SANTOS+;Desenvolvedora+Web+%E2%99%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&multiline=true&width=435&lines=ERIKA+SOARES+DOS+SANTOS+;Desenvolvedora+Web+Jr+%E2%99%A5)](https://git.io/typing-svg)
 ***
 ### Olá, sou a Erika!
 

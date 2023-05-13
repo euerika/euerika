@@ -8,7 +8,7 @@
 - Desenvolvedora em desenvolvimento (rs)
 - Estudante de Desenvolvimento Web
 - Aluna da 9ª turmna da [Lab ♥](https://www.laboratoria.la/br)
-- Amo aprender e foi assim que cheguei na tecnologia por curiosidade
+- Amo aprender, e foi assim que cheguei na tecnologia por curiosidade
 - Contato ⬇
  <div> 
 <a href = "mailto:erikasoares1209@gmail.com" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
